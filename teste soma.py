@@ -1,0 +1,5 @@
+print ('subtracao')
+primeironumero= float(input( 'primeiro numero'))
+segundonumero=  float(input('segundo numero'))
+t =(primeironumero - segundonumero)
+print ( 'resultado',t)
